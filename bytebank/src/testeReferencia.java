@@ -6,7 +6,7 @@ public class testeReferencia {
         System.out.println("saldo da primeira conta: " + primeiraConta.saldo);
 
         Conta segundaConta = primeiraConta; //nesse caso as duas referencias para o mesmo objeto
-                                            //todo valor em uma vai vai ser o mesmo na outra
+                                            //tdo valor em uma vai vai ser o mesmo na outra
 
         System.out.println("saldo da Segunda conta: " + segundaConta.saldo);
 

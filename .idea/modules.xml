@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Estudos-java.iml" filepath="$PROJECT_DIR$/.idea/Estudos-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" filepath="$PROJECT_DIR$/bytebank-composto/bytebank-composto.iml" />
       <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
     </modules>
   </component>
