@@ -1,8 +1,7 @@
 public class testaGetSet {
     public static void main(String[] args) {
-        Conta conta = new Conta();
-        //conta.numero = 1123;
-        conta.setNumero(12323);
+        Conta conta = new Conta(22,33);
+
         System.out.println(conta.getNumero());
 
         Cliente caio = new Cliente();
@@ -23,6 +22,7 @@ public class testaGetSet {
         System.out.println(caio);
         System.out.println(conta.getTitular());
 
+        System.out.println(Conta.getTotal());
 
     }
 }
