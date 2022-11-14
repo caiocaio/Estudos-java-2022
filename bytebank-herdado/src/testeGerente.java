@@ -1,6 +1,6 @@
 public class testeGerente {
     public static void main(String[] args) {
-        Gerente g1 = new Gerente();
+        Gerente g1 =   new Gerente();
         g1.setNome("Caio Marquez Chaves");
         g1.setCpf("826361672646");
         g1.setSalario(3000.0);
@@ -14,5 +14,7 @@ public class testeGerente {
 
 
         System.out.println(autenticou);
+
+        System.out.println(g1.getBonificacao());
     }
 }
