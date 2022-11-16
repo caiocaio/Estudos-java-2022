@@ -19,7 +19,7 @@ class Conta {
 
     public boolean transfere(double valor, Conta destino){
         if(this.saldo >= valor ){
-            this.saldo -= saldo;
+            this.saldo -= valor;
             destino.deposita(valor);   //pode ser destino.saldo += valor;
             return true;
         } //else{} opicional aqui, por uma questão logica.

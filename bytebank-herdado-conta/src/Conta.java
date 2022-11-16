@@ -5,13 +5,18 @@ class Conta {
     private Cliente titular;
     private static int total;
 
-    //construtor
+    //construtor padrão
+//    public Conta(){
+//
+//    }
+
+    //construtor especifico
     public Conta(int agencia, int numero){
         Conta.total++;
        // System.out.println("total de contas e: " + total);
         this.agencia = agencia;
         this.numero = numero;
-       // System.out.println("Estou criando uma conta");
+       // System.out.println("Estou criando uma conta " + numero);
     }
 
     public void deposita(double valor){
@@ -28,8 +33,7 @@ class Conta {
     }
 
     public boolean transfere(double valor, Conta destino){
-        if(this.saldo >= valor ){
-            this.saldo -= valor;
+        if(this.saca(valor)){
             destino.deposita(valor);   //pode ser destino.saldo += valor;
             return true;
         } //else{} opicional aqui, por uma questão logica.
