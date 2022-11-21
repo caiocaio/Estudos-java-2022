@@ -1,4 +1,4 @@
-public class ContaCorrente extends Conta {
+public class ContaCorrente extends Conta implements Tributavel{
 
 
     //contrutores não são herdados, temos q reescrevelos na herança:
@@ -16,5 +16,10 @@ public class ContaCorrente extends Conta {
         double valorASacar = valor + 0.2;
         return super.saca(valorASacar);
 
+    }
+
+    @Override
+    public double getValorImposto() {
+        return super.saldo * 0.01;
     }
 }
