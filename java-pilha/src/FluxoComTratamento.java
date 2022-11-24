@@ -9,6 +9,7 @@ public class FluxoComTratamento {
             String  msg = ex.getMessage();
             System.out.println("Exception " + msg);
             ex.printStackTrace();
+
         }
 
     }
