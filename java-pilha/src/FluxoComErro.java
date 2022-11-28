@@ -1,4 +1,4 @@
-public class Fluxo1 {
+public class FluxoComErro {
 
     public static void main(String[] args) {
         System.out.println("Ini do main");
@@ -12,17 +12,15 @@ public class Fluxo1 {
         System.out.println("Fim do main");
     }
 
-    private static void metodo1() {
+    private static void metodo1() throws MinhaExcecao{
         System.out.println("Ini do metodo1");
             metodo2();
         System.out.println("Fim do metodo1");
     }
 
-    private static void metodo2() {
+    private static void metodo2() throws MinhaExcecao{
         System.out.println("Ini do metodo2");
-
-        throw new MinhaExcecao("Deu Errado!");
-
-       // System.out.println("Fim do metodo2");
+        metodo2();
+        System.out.println("Fim do metodo2");
     }
 }
