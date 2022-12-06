@@ -1,5 +1,6 @@
 package br.com.bytebank.banco.teste;
 
+import br.com.bytebank.banco.especial.ContaEspecial;
 import br.com.bytebank.banco.modelo.ContaCorrente;
 import br.com.bytebank.banco.modelo.ContaPoupanca;
 import br.com.bytebank.banco.modelo.SaldoInsuficienteException;
@@ -7,6 +8,10 @@ import br.com.bytebank.banco.modelo.SaldoInsuficienteException;
 public class TesteContas {
 
     public static void main(String[] args) throws SaldoInsuficienteException {
+    
+        ContaEspecial ce = new ContaEspecial(222,111);
+        ce.getSaldo();
+        
         
         //Full Qualified Name
         ContaCorrente cc = new ContaCorrente(111, 111);
