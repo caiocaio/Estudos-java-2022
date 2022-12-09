@@ -9,32 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" filepath="$PROJECT_DIR$/bytebank-herdado/bytebank-herdado.iml" />
       <module fileurl="file://$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" filepath="$PROJECT_DIR$/bytebank-herdado-conta/bytebank-herdado-conta.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-pilha/java-pilha.iml" filepath="$PROJECT_DIR$/java-pilha/java-pilha.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-basic/oobj-basic.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-basic/oobj-basic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-corporativo-root.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-corporativo-root.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-crypt/oobj-crypt.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-crypt/oobj-crypt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-db-util/oobj-db-util.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-db-util/oobj-db-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-default-resources/oobj-default-resources.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-default-resources/oobj-default-resources.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-factory/oobj-factory.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-factory/oobj-factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-fcd/oobj-fcd.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-fcd/oobj-fcd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/generico/oobj-generico.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/generico/oobj-generico.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-hsm/oobj-hsm.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-hsm/oobj-hsm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-http/oobj-http.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-http/oobj-http.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-instant-message/oobj-instant-message.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-instant-message/oobj-instant-message.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/oobj-integration-test.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/oobj-integration-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/oobj-integration-test-util/oobj-integration-test-util.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/oobj-integration-test-util/oobj-integration-test-util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-io/oobj-io.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-io/oobj-io.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-jasper-reports/oobj-jasper-reports.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-jasper-reports/oobj-jasper-reports.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-jms/oobj-jms.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-jms/oobj-jms.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-lib/oobj-lib.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-lib/oobj-lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-lock/oobj-lock.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-lock/oobj-lock.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-metrics/oobj-metrics.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-metrics/oobj-metrics.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-parent/oobj-parent.iml" filepath="$PROJECT_DIR$/../oobj-parent/oobj-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-portfolio/oobj-portfolio.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-portfolio/oobj-portfolio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-swing-library/oobj-swing-library.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-swing-library/oobj-swing-library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-xml/oobj-xml.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-xml/oobj-xml.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/oobj-xml-util/oobj-xml-util.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/oobj-xml-util/oobj-xml-util.iml" />
       <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../oobj-corporativo/utils-core/utils-core.iml" filepath="$PROJECT_DIR$/../oobj-corporativo/utils-core/utils-core.iml" />
     </modules>
   </component>
 </project>

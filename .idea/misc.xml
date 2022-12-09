@@ -2,16 +2,43 @@
 <project version="4">
   <component name="JavadocGenerationManager">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/bytebank-herdado-conta/doc" />
+    <option name="OPTION_SCOPE" value="public" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../oobj-parent/pom.xml" />
         <option value="$PROJECT_DIR$/../oobj-corporativo/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../oobj-corporativo/generico/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-crypt/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-db-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-default-resources/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-factory/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-fcd/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-hsm/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-http/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-instant-message/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/oobj-integration-test-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-integration-test/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-io/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-jasper-reports/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-jms/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-lib/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-lock/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-metrics/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-portfolio/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-swing-library/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-xml-util/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/oobj-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/../oobj-corporativo/utils-core/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
